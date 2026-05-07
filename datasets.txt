@@ -1,0 +1,9 @@
+List of possible graph dataset resources
+
+1. https://snap.stanford.edu/data/
+2. https://networkrepository.com/
+3. https://github.com/benedekrozemberczki/datasets
+4. http://derekgreene.com/resources/
+5.
+
+
